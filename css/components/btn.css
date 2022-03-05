@@ -1,0 +1,14 @@
+.btn{
+	background-color: grey;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: black;
+	font-style: 0;
+	text-decoration: none;
+	font-family: 'League Gothic', sans-serif;
+	font-size: 30px
+}
+.btn:hover{
+	background-color:black;
+	color: white;
+}
